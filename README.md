@@ -17,9 +17,9 @@ Welcome to the Number Guessing Game! This is a simple Java-based GUI game where 
 4. **Receive Feedback**: The game will tell you if your guess is too high or too low.
 5. **Win or Lose**: The game ends when you guess correctly or exhaust your 5 attempts. You can click "Play Again" to restart.
 
-## Screenshots
+## Working video
 
-![Game Screenshot](path-to-screenshot.png)
+https://github.com/user-attachments/assets/7c88c481-781b-4220-bed4-f9b2f40aa98a
 
 ## Installation
 
